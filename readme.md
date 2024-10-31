@@ -32,12 +32,12 @@ Run the following commands to install and start the bot:
 
 ```bash
 # Install Node.js and npm if not already installed
-sudo npm install node npm
+sudo apt-get install node npm -y
 sudo npm i n -g
 sudo n latest
 
 # Clone the repository
-git clone github_url.git
+git clone https://github.com/direkturcrypto/unichain_testnet.git
 cd unichain_testnet
 
 # Configure `.env` and `private-keys.txt`
