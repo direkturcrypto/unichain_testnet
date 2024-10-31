@@ -23,8 +23,8 @@ The following environment variables need to be set:
 - `INITIAL_ETH_BALANCE`: The initial ETH balance in each bot wallet.
 - `MINIMUM_ETH_BALANCE`: The minimum ETH balance required in a bot wallet; if it drops below this threshold, ETH will be transferred from the primary wallet.
 
-### Private Key List (`private-keys.txt`)
-Create a file named `private-keys.txt` with a list of your bot wallets' private keys. Add one private key per line.
+### Private Key List (`private_keys.txt`)
+Create a file named `private_keys.txt` with a list of your bot wallets' private keys. Add one private key per line.
 
 ## Running the Project
 
