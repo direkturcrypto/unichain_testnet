@@ -1,0 +1,4 @@
+node_modules
+private_keys.txt
+.env
+package-lock.json
